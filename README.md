@@ -1,2 +1,2 @@
 # JWT-Laravel
-latihan membuat jwt
+latihan membuat JWT (Json Web Token) Menggunakan laravel
